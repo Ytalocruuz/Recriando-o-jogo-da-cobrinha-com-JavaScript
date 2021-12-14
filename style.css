@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Maiden+Orange&family=Roboto:wght@400;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    height: 95vh;
+    width: 95;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #97e6ff;
+    margin: auto;
+}
+
+h1 {
+    font-family: "Maiden Orange", cursive;
+    color: #205980;
+    font-size: 100px;
+}
+
+h2 {
+    font-family: "Maiden Orange", cursive;
+    color: #205980;
+    font-size: 50px;
+}
+
+/* @media screen and (wax-width: 600px) {
+    
+
+    body {
+
+        height: 95%;
+        width: 95;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 12px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h2{
+        font-size: 20px;
+    }
+} */
